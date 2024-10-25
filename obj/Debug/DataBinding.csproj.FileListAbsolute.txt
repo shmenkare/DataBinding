@@ -1,0 +1,4 @@
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\DataBinding\bin\DataBinding.dll
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\DataBinding\bin\DataBinding.pdb
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\DataBinding\obj\Debug\DataBinding.dll
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\DataBinding\obj\Debug\DataBinding.pdb
