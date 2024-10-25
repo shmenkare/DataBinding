@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="F:\DataBinding" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="10/24/2024 23:43:01" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="10/24/2024 23:43:01" />
+    <file relUrl="bin/DataBinding.pdb" publishTime="10/24/2024 23:54:59" />
+    <file relUrl="bin/DataBinding.dll" publishTime="10/24/2024 23:54:59" />
+    <file relUrl="Web.config" publishTime="10/24/2024 23:54:59" />
+    <file relUrl="Default.aspx" publishTime="10/24/2024 23:53:43" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="10/24/2024 23:43:01" />
+  </publishProfile>
+</publishData>
