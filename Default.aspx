@@ -14,3 +14,6 @@
     </form>
 </body>
 </html>
+<asp:sqldatasource runat="server" 
+    ConnectionString="<%$ ConnectionStrings:DataBindingDB %>" 
+    SelectCommand="SELECT [Nombre] FROM [Localidades] ORDER BY [Nombre]"></asp:sqldatasource>
