@@ -14,15 +14,15 @@
 </body>
 </html>
 <asp:sqldatasource ID="SqlDataSourceProvincias" runat="server" 
-        ConnectionString="<%$ ConnectionStrings:DataBindingDB %>" 
-        SelectCommand="SELECT [Nombre], [ID] FROM [Provincias]"></asp:sqldatasource>
+        ConnectionString="<%$ ConnectionStrings:DataBindingDBKey %>" 
+        SelectCommand="SELECT [ID], [Nombre] FROM [Provincias]"></asp:sqldatasource>
     <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSourceProvincias" 
         DataTextField="Nombre" DataValueField="ID" AutoPostBack="True">
     </asp:DropDownList>
     <br />
     <br />
     <asp:SqlDataSource ID="SqlDataSourceLocalidades" runat="server" 
-        ConnectionString="<%$ ConnectionStrings:DataBindingDB %>" 
+        ConnectionString="<%$ ConnectionStrings:DataBindingDBKey %>" 
         SelectCommand="SELECT [Nombre], [ID] FROM [Localidades] WHERE ([IDProvincia] = @IDProvincia)">
         <SelectParameters>
             <asp:ControlParameter ControlID="DropDownList1" Name="IDProvincia" 
